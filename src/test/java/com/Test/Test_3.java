@@ -7,5 +7,8 @@ public class Test_3 {
 	@Test
 	public void test_3() {
 		System.out.println("Test");
+		
+	  System.out.println("Test Edit");
+
 	}
 }
